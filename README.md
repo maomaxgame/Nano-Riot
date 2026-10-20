@@ -12,6 +12,7 @@ The map fills the screen, with base health, points and compact controls.
 ## Controls
 
 - Build: choose Build tower or press T, then click/tap a clear street.
+- Keep placing towers without reselecting; construction stays active while waiting for points.
 - Keyboard building: T, arrows to position, Enter to place. T/Escape/right-click cancels.
 - Green placement preview shows range; red means invalid. Invalid placement is free.
 - Select police: 1–5 or numbered map markers. New games start unselected.
@@ -20,7 +21,7 @@ The map fills the screen, with base health, points and compact controls.
 - Click/WASD moves keep spacing. A clear street drag without boxing police moves and faces the group in a perpendicular line, 40 map units apart.
 - Hold Ctrl/Command to face the mouse without changing movement orders. Red destination previews mean the whole order is invalid.
 - Camera: right-drag or arrow keys; scroll or +/− to zoom; Reset view to recenter.
-- Short right-click: cancel and deselect.
+- Short right-click: deselect without stopping movement, or close an in-game menu.
 - Space: pause/resume. R: restart. Escape: menu.
 - Menu includes short tutorial, English/French, sound and reduced-motion preferences.
 
